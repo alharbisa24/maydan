@@ -2,7 +2,7 @@
 
 Maydan
 
-## ScreenShots
+## Screenshots
 
 ### Home page
 ![Home](https://raw.githubusercontent.com/alharbisa24/maydan/main/screenshots/main_home.png)
