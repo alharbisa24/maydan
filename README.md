@@ -1,6 +1,36 @@
 # Maydan
 
-Maydan
+## 📋 Overview
+
+Maydan is a **SaaS platform** designed to efficiently manage projects, departments, and job listings, enabling seamless applicant submissions, interview scheduling, and sending job offers to candidates.  
+The system provides an intuitive and dynamic interface powered by **Laravel Livewire** for real-time interactions without page reloads.
+
+---
+
+## 🚀 Features
+
+- **Project, Department & Job Management**  
+  Create, update, and organize projects, departments, and job postings with ease.
+
+- **Applicant Submission**  
+  Candidates can submit applications directly through dynamic forms.
+
+- **Interview Scheduling**  
+  Schedule interviews with candidates, track statuses, and manage availability.
+
+- **Job Offer Management**  
+  Send personalized job offers to candidates through the platform.
+
+- **Secure Payment Integration**  
+  Integrated with **Polar Payment Gateway** for handling subscription payments and billing.
+
+- **Responsive UI**  
+  Built using **TailwindCSS** for a modern and mobile-friendly interface.
+
+- **Real-time Interaction**  
+  Leveraging **Laravel Livewire** for seamless and reactive user experience without page reloads.
+
+---
 
 ## Screenshots
 
